@@ -10,5 +10,11 @@
       "dependencyDashboardApproval": true
     }
   ],
+  "packageRules": [
+    {
+      "matchPackageNames": ["org.codehaus.groovy:groovy-bom"],
+      "dependencyDashboardApproval": true
+    }
+  ],
  "includeForks": true
 }
