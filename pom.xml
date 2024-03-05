@@ -25,7 +25,7 @@
         <testng.version>7.3.0</testng.version>
         <swagger.version>1.5.16</swagger.version>
         <apache-httpcore.version>4.4.13</apache-httpcore.version>
-        <apache-httpclient.version>4.5.13-forgerock</apache-httpclient.version>
+        <apache-httpclient.version>4.5.14</apache-httpclient.version>
         <apache-httpasyncclient.version>4.1.4</apache-httpasyncclient.version>
         <bouncy.castle.version>1.69</bouncy.castle.version>
         <dropwizard-metrics.version>3.2.5</dropwizard-metrics.version>
