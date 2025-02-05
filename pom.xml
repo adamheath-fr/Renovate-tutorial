@@ -40,7 +40,7 @@
         <javax.security.auth.message.version>3.1.1</javax.security.auth.message.version>
         <supercsv.version>2.4.0</supercsv.version>
         <hikaricp.version>3.4.5</hikaricp.version>
-        <google.cloud.libraries.version>26.1.5</google.cloud.libraries.version>
+        <google.cloud.libraries.version>26.54.0</google.cloud.libraries.version>
         <rxjava.version>3.0.10</rxjava.version>
     </properties>
 
